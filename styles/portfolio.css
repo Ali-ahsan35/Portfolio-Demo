@@ -180,3 +180,10 @@ main {
   margin-top: 50px;
   margin-bottom: 113px;
 }
+
+/* footer section */
+footer{
+  display: flex;
+  background-color: #FFF8F3;
+  padding: 130px 200px;
+}
